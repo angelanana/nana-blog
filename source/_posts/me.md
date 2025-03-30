@@ -1,5 +1,5 @@
 ---
-title: Angela Zheng | Full-stack Explorer
+title: Angelanana | Full-stack Explorer
 date: 2025-01-03 15:46:16
 tags:
   - Frontend Development
@@ -70,6 +70,6 @@ tags:
 - 2024书单：《马斯克传》《超越百岁》《我在北京送快递》/ 2024 Reads: Elon Musk, Outlive, Delivery Diaries
 
 📮 **Connect | 期待交流**  
-[GitHub](https://github.com/angelanana) | [掘金](https://juejin.cn/user/2463372060667735)  
+[GitHub](https://github.com/angelanana) | [掘金](https://juejin.cn/user/2463372060667735) | [X](https://x.com/angelanana17894)
 *"Stay hungry, stay foolish. 在比特与字节的世界，我们永远都是新生"*  
 *"Stay hungry, stay foolish. In the realm of bits and bytes, we remain perpetual learners."*
