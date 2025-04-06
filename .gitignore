@@ -20,3 +20,6 @@ public/
 
 # 或者使用更明确的方式：
 /public/
+
+# db.json
+/db.json/
