@@ -7,7 +7,7 @@ v18.19.1
 ## 安装依赖
 yarn install
 ## 启动服务
-yarn dev
+yarn server
 ## 打包
 yarn build
 ## 发布
